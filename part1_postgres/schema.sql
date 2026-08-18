@@ -1,0 +1,2 @@
+-- Part 1: ACME Relational Database Design with PostgreSQL
+-- Drafted DDL, mirrored into the actual Udacity notebook once finalized.
