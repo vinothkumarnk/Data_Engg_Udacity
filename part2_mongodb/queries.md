@@ -2,7 +2,7 @@
 
 PyMongo queries drafted here, mirrored into the actual Udacity notebook once finalized.
 
-**Final version, authored by the user (2026-08-19)** — superseded an earlier Claude-drafted version that used fictional "Alice Chen/aerospace" data; see `notes.md` for the full revision history (why it changed, twice).
+**Final version, authored by the user (2026-08-19)** — superseded an earlier draft version that used fictional "Alice Chen/aerospace" data; see `notes.md` for the full revision history (why it changed, twice).
 
 ## Customer collection — document creation (final)
 
