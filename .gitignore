@@ -4,3 +4,4 @@ __pycache__/
 *.pem
 *_credentials.json
 .DS_Store
+eli5-tutor-notes.html
